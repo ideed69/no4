@@ -29,9 +29,7 @@ public class data {
         tmpat_lahir=biodata.nextLine();
         System.out.print("Tarikh Lahir:");
         tarikh_lahir=biodata.nextLine();
-        System.out.println("------------");
         System.out.println("Biodataku");
-        System.out.println("------------");
         System.out.println("Nama Lengkap:"+nama_dp+" "+nama_blk);
         System.out.println("Alamat:"+alamat+" "+bandar);
         System.out.println("Tempat,Tarikh lahir:"+tmpat_lahir+" "+tarikh_lahir);
